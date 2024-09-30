@@ -14,5 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Vercel
 
-Veja o deploy de uma parte do projeto no Vercel [LINK](https://php-condelivery.vercel.app/)
+Veja o deploy da área de cadastro [LINK](https://php-condelivery.vercel.app/)
 
+## Mobile
+
+Repositório do aplicativo Android [LINK](https://github.com/samysuki1/Mobile_Condelivery-)
